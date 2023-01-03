@@ -1,5 +1,5 @@
 # codeguru-gradle-plugin
-Gradle plugin for performing AWS CodeGuru reviews.
+Gradle plugin for performing AWS CodeGuru reviews (static code analysis).
 
 See [this blog](https://www.linkedin.com/pulse/aws-codeguru-static-code-analysis-lucas-persson/) for
 a quick intro to the tool.
